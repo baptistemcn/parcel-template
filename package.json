@@ -1,7 +1,7 @@
 {
-  "name": "parcel-template-baptistemcn",
+  "name": "parcel-template",
   "version": "0.0.1",
-  "description": "Parcel Configuration Template by BaptisteMcn",
+  "description": "Parcel Configuration Template",
   "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
