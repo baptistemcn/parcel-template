@@ -2,9 +2,8 @@
   "name": "parcel-template",
   "version": "0.0.1",
   "description": "Parcel Configuration Template",
-  "main": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -20,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/baptistemcn/parcel-template/issues"
   },
-  "homepage": "https://github.com/baptistemcn/parcel-template#readme"
+  "homepage": "https://github.com/baptistemcn/parcel-template#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
 }
