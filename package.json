@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Parcel Configuration Template",
   "scripts": {
+    "build": "parcel build index.html",
+    "build:prod": "rimraf dist/ && parcel build index.html",
+    "clean": "rimraf dist/ .parcel-cache/",
     "dev": "parcel index.html"
   },
   "repository": {
@@ -21,6 +24,7 @@
   },
   "homepage": "https://github.com/baptistemcn/parcel-template#readme",
   "devDependencies": {
-    "parcel": "^2.7.0"
+    "parcel": "^2.7.0",
+    "rimraf": "^3.0.2"
   }
 }
