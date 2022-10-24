@@ -1,0 +1,12 @@
+# Build 
+dist/
+
+# Node folders
+node_modules/
+
+# Parcel
+.parcel-cache/
+
+# json files
+*.js
+*.json
