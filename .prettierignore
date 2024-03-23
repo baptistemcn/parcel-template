@@ -10,3 +10,6 @@ node_modules/
 # json files
 *.js
 *.json
+
+# yaml files
+*.yaml
