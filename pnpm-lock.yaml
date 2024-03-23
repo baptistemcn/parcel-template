@@ -11,34 +11,34 @@ dependencies:
 
 devDependencies:
   '@commitlint/cli':
-    specifier: ^17.1.2
+    specifier: ^17.8.1
     version: 17.8.1
   '@commitlint/config-conventional':
-    specifier: ^17.1.0
+    specifier: ^17.8.1
     version: 17.8.1
   '@typescript-eslint/eslint-plugin':
-    specifier: ^5.40.1
+    specifier: ^5.62.0
     version: 5.62.0(@typescript-eslint/parser@5.62.0)(eslint@8.57.0)(typescript@4.9.5)
   '@typescript-eslint/parser':
-    specifier: ^5.40.1
+    specifier: ^5.62.0
     version: 5.62.0(eslint@8.57.0)(typescript@4.9.5)
   eslint:
-    specifier: ^8.26.0
+    specifier: ^8.57.0
     version: 8.57.0
   husky:
-    specifier: ^8.0.1
+    specifier: ^8.0.3
     version: 8.0.3
   parcel:
-    specifier: ^2.7.0
+    specifier: ^2.12.0
     version: 2.12.0(typescript@4.9.5)
   prettier:
-    specifier: ^2.7.1
+    specifier: ^2.8.8
     version: 2.8.8
   rimraf:
     specifier: ^3.0.2
     version: 3.0.2
   typescript:
-    specifier: ^4.8.4
+    specifier: ^4.9.5
     version: 4.9.5
 
 packages:
